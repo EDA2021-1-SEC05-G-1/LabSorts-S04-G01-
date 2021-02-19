@@ -1,4 +1,6 @@
 #ISIS1225 - Estructura de un proyecto
+##*Valentina Goyeneche Cod 201922380
+##*Sebastian Contreras Cod 202020903
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
